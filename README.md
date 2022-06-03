@@ -1,15 +1,17 @@
 <span aling="center">
   
-![github-header-image](https://user-images.githubusercontent.com/68358076/171783456-cf395c82-4d7c-417b-ab1a-56de2bd299c9.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/68358076/171783988-baa8e11b-15c0-47d2-9478-cfc1157ba681.png)
 
 
 </div>
+
 
 <!--
 **israelsanttana/israelsanttana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently learning ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
