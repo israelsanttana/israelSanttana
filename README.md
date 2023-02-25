@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
 ### Studying in this moment:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,bootstrap)](https://skillicons.dev)
 
 
 
