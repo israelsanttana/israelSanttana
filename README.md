@@ -17,10 +17,9 @@
   
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,bootstrap,styledcomponents,sass,next,ts,js,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,materialui,bootstrap,styledcomponents,sass,next,ts,js,html,css,git,figma,vite)](https://skillicons.dev)
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,vite)](https://skillicons.dev)
+
 
 
 
