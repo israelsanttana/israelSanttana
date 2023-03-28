@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,next,ts,js,html,css,git)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,vite)](https://skillicons.dev)
 
 
 
